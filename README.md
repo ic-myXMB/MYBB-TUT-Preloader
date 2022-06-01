@@ -1,7 +1,7 @@
 # MYBB-TUT-Preloader
 
 * Tutorial credits: ic_myXMB 
-* Further credits to: effete (as viewing their past tutorial and sources helped write this tutorial)
+* Further credits to: effone (as viewing their past tutorial and sources helped write this tutorial)
 * Further credits to: Vintagedaddyo (as viewing their past provided examples via such helped write this tutorial)
 * The tutorial is free to re-share as long as you retain any mentioned credits
 
