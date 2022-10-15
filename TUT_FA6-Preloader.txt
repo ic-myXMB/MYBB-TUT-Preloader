@@ -18,7 +18,7 @@ After add:
 [code]
 <!-- Font Awesome 6 library -->
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.2.0/css/all.css">
 
 <!--  Font Awesome 6 Pre-loader Spinner by effone, vintagedaddyo and ic_myXMB -->
 
